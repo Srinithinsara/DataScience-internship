@@ -1,2 +1,2 @@
 # DataScience-internship
-Datasets from (www.kaggle.com)
+-Datasets from www.kaggle.com
